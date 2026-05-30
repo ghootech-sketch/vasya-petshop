@@ -14,13 +14,20 @@ const config: Config = {
         brown: '#8B5E3C',
         offwhite: '#FFFDF9',
         gold: '#C9A84C',
+        ink: '#2F241D',
+        muted: '#756A60',
+        sand: '#EFE4D6',
       },
       fontFamily: {
-        display: ['var(--font-display)'],
-        body: ['var(--font-body)'],
+        sans: ['var(--font-body)', 'system-ui', 'sans-serif'],
+        display: ['var(--font-display)', 'serif'],
+        body: ['var(--font-body)', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
         soft: '0 18px 45px rgba(139, 94, 60, 0.12)',
+      },
+      borderRadius: {
+        '3xl': '1.75rem',
       },
     },
   },
