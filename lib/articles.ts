@@ -23,7 +23,7 @@ export const articles: Article[] = [
     slug: 'cara-merawat-kucing-pertama-kali',
     title: 'Panduan Lengkap Merawat Kucing untuk Pemula',
     category: 'Kucing',
-    thumbnail: 'https://source.unsplash.com/800x500/?kitten,cute',
+    thumbnail: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     excerpt:
       'Baru pertama kali memelihara kucing? Pelajari kebutuhan dasar mulai dari makanan, litter box, grooming, hingga cara membangun rutinitas yang nyaman.',
     date: '2026-01-08',
@@ -33,7 +33,7 @@ export const articles: Article[] = [
     slug: 'makanan-terbaik-anjing-dewasa',
     title: '7 Rekomendasi Makanan Terbaik untuk Anjing Dewasa',
     category: 'Anjing',
-    thumbnail: 'https://source.unsplash.com/800x500/?dog,food',
+    thumbnail: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     excerpt:
       'Makanan anjing dewasa perlu disesuaikan dengan ukuran, energi, dan kondisi kesehatannya. Ini panduan memilih nutrisi yang lebih tepat.',
     date: '2026-01-14',
@@ -43,7 +43,7 @@ export const articles: Article[] = [
     slug: 'tips-grooming-kucing-di-rumah',
     title: 'Tips Grooming Kucing Sendiri di Rumah Tanpa Stres',
     category: 'Grooming',
-    thumbnail: 'https://source.unsplash.com/800x500/?cat,grooming',
+    thumbnail: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80',
     excerpt:
       'Grooming di rumah bisa lebih tenang jika dilakukan bertahap. Mulailah dari menyisir, membersihkan telinga, dan memotong kuku dengan alat yang tepat.',
     date: '2026-01-21',
@@ -53,7 +53,7 @@ export const articles: Article[] = [
     slug: 'manfaat-vitamin-hewan-peliharaan',
     title: 'Kenapa Hewan Peliharaan Butuh Vitamin? Ini Penjelasannya',
     category: 'Kesehatan',
-    thumbnail: 'https://source.unsplash.com/800x500/?pet,health',
+    thumbnail: 'https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=800&q=80',
     excerpt:
       'Vitamin dapat membantu daya tahan tubuh, kesehatan bulu, dan pemulihan. Namun pemakaian tetap perlu disesuaikan dengan kebutuhan hewan.',
     date: '2026-02-02',
@@ -63,7 +63,7 @@ export const articles: Article[] = [
     slug: 'aquarium-pemula-panduan-setup',
     title: 'Setup Aquarium Pertama: Panduan Step-by-Step untuk Pemula',
     category: 'Ikan',
-    thumbnail: 'https://source.unsplash.com/800x500/?aquarium,fish',
+    thumbnail: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&q=80',
     excerpt:
       'Aquarium pertama harus disiapkan dengan filter, dekorasi, air yang stabil, dan pakan yang sesuai agar ikan tidak mudah stres.',
     date: '2026-02-12',
@@ -73,7 +73,7 @@ export const articles: Article[] = [
     slug: 'memilih-kandang-kucing-yang-baik',
     title: 'Cara Memilih Kandang Kucing yang Nyaman dan Aman',
     category: 'Aksesoris',
-    thumbnail: 'https://source.unsplash.com/800x500/?cat,cage',
+    thumbnail: 'https://images.unsplash.com/photo-1601758124510-52d02ddb7cbd?w=800&q=80',
     excerpt:
       'Kandang kucing yang baik tidak hanya kuat, tetapi juga cukup lega, mudah dibersihkan, dan aman untuk aktivitas harian.',
     date: '2026-02-20',
@@ -83,7 +83,7 @@ export const articles: Article[] = [
     slug: 'tanda-hewan-peliharaan-sakit',
     title: '8 Tanda Hewan Peliharaan Kamu Sedang Sakit yang Sering Diabaikan',
     category: 'Kesehatan',
-    thumbnail: 'https://source.unsplash.com/800x500/?sick,pet,vet',
+    thumbnail: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     excerpt:
       'Perubahan kecil seperti malas makan, tidur berlebihan, atau bulu kusam bisa menjadi tanda awal gangguan kesehatan.',
     date: '2026-03-04',
@@ -93,7 +93,7 @@ export const articles: Article[] = [
     slug: 'kenapa-kucing-suka-menggaruk',
     title: 'Kenapa Kucing Suka Menggaruk Sofa? Ini Alasan dan Solusinya',
     category: 'Kucing',
-    thumbnail: 'https://source.unsplash.com/800x500/?cat,sofa',
+    thumbnail: 'https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80',
     excerpt:
       'Menggaruk adalah perilaku alami kucing untuk menandai wilayah dan merawat kuku. Solusinya bukan marah-marah, melainkan memberi media yang tepat.',
     date: '2026-03-15',
