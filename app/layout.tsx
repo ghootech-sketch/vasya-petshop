@@ -4,6 +4,7 @@ import { Baloo_2, Nunito } from 'next/font/google'
 import './globals.css'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
+import FloatingWhatsApp from '@/components/FloatingWhatsApp'
 import { siteConfig } from '@/lib/site'
 
 const displayFont = Baloo_2({
@@ -80,6 +81,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Navbar />
         <main>{children}</main>
         <Footer />
+        <FloatingWhatsApp />
       </body>
     </html>
   )

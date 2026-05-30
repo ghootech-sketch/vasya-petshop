@@ -17,7 +17,7 @@ export default function ArticlesPage() {
 
   return (
     <div className="bg-cream">
-      <section className="section-padding mx-auto max-w-7xl py-14 sm:py-18">
+      <section className="section-padding mx-auto max-w-7xl py-12 sm:py-16">
         <div className="mb-10 grid gap-8 lg:grid-cols-[1fr_0.75fr] lg:items-end">
           <div>
             <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-offwhite px-4 py-2 text-sm font-bold text-brown shadow-sm">

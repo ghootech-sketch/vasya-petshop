@@ -84,7 +84,7 @@ export default function CatalogDynamicPage({ params }: CatalogDynamicPageProps) 
 
     return (
       <div className="bg-cream">
-        <section className="section-padding mx-auto max-w-7xl py-14 sm:py-18">
+        <section className="section-padding mx-auto max-w-7xl py-12 sm:py-16">
           <Link
             href="/catalog"
             className="mb-8 inline-flex items-center gap-2 rounded-full bg-offwhite px-4 py-2 text-sm font-bold text-brown shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft"
@@ -137,7 +137,7 @@ export default function CatalogDynamicPage({ params }: CatalogDynamicPageProps) 
                 href={whatsappProductLink(product.name)}
                 target="_blank"
                 rel="noreferrer"
-                className="mt-7 inline-flex w-full items-center justify-center gap-3 rounded-full bg-brown px-7 py-4 text-base font-black text-offwhite shadow-soft transition hover:-translate-y-0.5 hover:bg-ink"
+                className="mt-7 inline-flex min-h-11 w-full items-center justify-center gap-3 rounded-full bg-brown px-7 py-4 text-base font-black text-offwhite shadow-soft transition hover:-translate-y-0.5 hover:bg-ink"
               >
                 <MessageCircle className="h-5 w-5" aria-hidden="true" />
                 Pesan via WhatsApp
@@ -165,7 +165,7 @@ export default function CatalogDynamicPage({ params }: CatalogDynamicPageProps) 
                 </Link>
               </div>
 
-              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+              <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4 lg:gap-6">
                 {relatedProducts.map((item) => (
                   <ProductCard key={item.id} product={item} />
                 ))}
@@ -185,7 +185,7 @@ export default function CatalogDynamicPage({ params }: CatalogDynamicPageProps) 
 
   return (
     <div className="bg-cream">
-      <section className="section-padding mx-auto max-w-7xl py-14 sm:py-18">
+      <section className="section-padding mx-auto max-w-7xl py-12 sm:py-16">
         <Link
           href="/catalog"
           className="mb-8 inline-flex items-center gap-2 rounded-full bg-offwhite px-4 py-2 text-sm font-bold text-brown shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft"
@@ -219,7 +219,7 @@ export default function CatalogDynamicPage({ params }: CatalogDynamicPageProps) 
           </p>
         </div>
 
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4 lg:gap-6">
           {categoryProducts.map((item) => (
             <ProductCard key={item.id} product={item} />
           ))}
