@@ -14,7 +14,7 @@ export const products: Product[] = [
     name: 'Royal Canin Adult Dog 10kg',
     category: 'Anjing',
     price: 285000,
-    image: 'https://source.unsplash.com/600x600/?dog+food',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Makanan premium untuk anjing dewasa dengan nutrisi seimbang untuk energi harian.',
     badge: 'Terlaris',
   },
@@ -23,7 +23,7 @@ export const products: Product[] = [
     name: 'Pedigree Puppy Chicken 8kg',
     category: 'Anjing',
     price: 195000,
-    image: 'https://source.unsplash.com/600x600/?dog+food+bowl',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Makanan anak anjing rasa ayam untuk mendukung pertumbuhan tulang dan otot.',
     badge: 'Promo',
   },
@@ -32,7 +32,7 @@ export const products: Product[] = [
     name: 'Whiskas Tuna Pouch 85gr',
     category: 'Kucing',
     price: 12000,
-    image: 'https://source.unsplash.com/600x600/?cat+food',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Makanan basah kucing rasa tuna dengan tekstur lembut dan aroma menggoda.',
     badge: 'Terlaris',
   },
@@ -41,7 +41,7 @@ export const products: Product[] = [
     name: 'Friskies Kitten 1.5kg',
     category: 'Kucing',
     price: 65000,
-    image: 'https://source.unsplash.com/600x600/?kitten+eating',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Makanan kering untuk kitten dengan nutrisi lengkap untuk masa tumbuh aktif.',
     badge: 'Baru',
   },
@@ -50,7 +50,7 @@ export const products: Product[] = [
     name: 'Drools Adult Cat Salmon 3kg',
     category: 'Kucing',
     price: 145000,
-    image: 'https://source.unsplash.com/600x600/?cat+salmon',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Makanan kucing dewasa rasa salmon dengan protein tinggi dan omega untuk bulu sehat.',
     badge: 'Terlaris',
   },
@@ -59,7 +59,7 @@ export const products: Product[] = [
     name: 'Royal Canin Persian 2kg',
     category: 'Kucing',
     price: 225000,
-    image: 'https://source.unsplash.com/600x600/?persian+cat',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Formula khusus kucing Persia untuk kesehatan kulit, bulu, dan pencernaan.',
     badge: 'Terlaris',
   },
@@ -68,7 +68,7 @@ export const products: Product[] = [
     name: 'Kalung GPS Anjing',
     category: 'Anjing',
     price: 320000,
-    image: 'https://source.unsplash.com/600x600/?dog+collar',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Kalung GPS modern untuk membantu memantau aktivitas dan posisi anjing kesayangan.',
     badge: 'Baru',
   },
@@ -77,7 +77,7 @@ export const products: Product[] = [
     name: 'Tali Leash Kulit Premium',
     category: 'Anjing',
     price: 185000,
-    image: 'https://source.unsplash.com/600x600/?dog+leash',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Tali leash kulit premium yang kuat, nyaman digenggam, dan tampil elegan.',
   },
   {
@@ -85,7 +85,7 @@ export const products: Product[] = [
     name: 'Kandang Lipat Besi M',
     category: 'Anjing',
     price: 450000,
-    image: 'https://source.unsplash.com/600x600/?dog+cage',
+    image: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     description: 'Kandang lipat besi ukuran M, praktis untuk rumah maupun perjalanan.',
   },
   {
@@ -93,7 +93,7 @@ export const products: Product[] = [
     name: 'Kandang Kucing Tingkat 3',
     category: 'Kucing',
     price: 875000,
-    image: 'https://source.unsplash.com/600x600/?cat+cage',
+    image: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     description: 'Kandang tingkat tiga untuk kucing aktif dengan ruang bermain dan istirahat luas.',
     badge: 'Promo',
   },
@@ -102,7 +102,7 @@ export const products: Product[] = [
     name: 'Tempat Tidur Bulu Bulat',
     category: 'Kucing',
     price: 135000,
-    image: 'https://source.unsplash.com/600x600/?cat+bed',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Tempat tidur bulu lembut berbentuk bulat untuk tidur kucing yang lebih nyaman.',
   },
   {
@@ -110,7 +110,7 @@ export const products: Product[] = [
     name: 'Mainan Bola Interaktif Kucing',
     category: 'Kucing',
     price: 75000,
-    image: 'https://source.unsplash.com/600x600/?cat+toy+ball',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Mainan bola interaktif untuk menstimulasi insting berburu dan aktivitas harian kucing.',
   },
   {
@@ -118,7 +118,7 @@ export const products: Product[] = [
     name: 'Sisir Grooming Bulu Halus',
     category: 'Grooming',
     price: 55000,
-    image: 'https://source.unsplash.com/600x600/?pet+grooming',
+    image: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80',
     description: 'Sisir grooming lembut untuk merapikan bulu halus tanpa membuat kulit iritasi.',
   },
   {
@@ -126,7 +126,7 @@ export const products: Product[] = [
     name: 'Shampo Anjing Anti Kutu',
     category: 'Grooming',
     price: 85000,
-    image: 'https://source.unsplash.com/600x600/?dog+shampoo',
+    image: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80',
     description: 'Shampo anjing dengan formula anti kutu dan aroma segar untuk perawatan rutin.',
     badge: 'Terlaris',
   },
@@ -135,7 +135,7 @@ export const products: Product[] = [
     name: 'Trimmer Bulu Hewan Elektrik',
     category: 'Grooming',
     price: 275000,
-    image: 'https://source.unsplash.com/600x600/?pet+trimmer',
+    image: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80',
     description: 'Trimmer elektrik untuk merapikan bulu hewan peliharaan dengan mudah di rumah.',
   },
   {
@@ -143,7 +143,7 @@ export const products: Product[] = [
     name: 'Parfum Anjing Lavender',
     category: 'Grooming',
     price: 65000,
-    image: 'https://source.unsplash.com/600x600/?dog+spray',
+    image: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80',
     description: 'Parfum anjing aroma lavender yang lembut dan tahan lama setelah grooming.',
   },
   {
@@ -151,7 +151,7 @@ export const products: Product[] = [
     name: 'Aquarium Set 40cm',
     category: 'Ikan',
     price: 350000,
-    image: 'https://source.unsplash.com/600x600/?aquarium+fish',
+    image: 'https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=800&q=80',
     description: 'Paket aquarium 40cm untuk pemula, cocok untuk ikan hias kecil di rumah.',
     badge: 'Baru',
   },
@@ -160,7 +160,7 @@ export const products: Product[] = [
     name: 'Filter Aquarium Internal',
     category: 'Ikan',
     price: 125000,
-    image: 'https://source.unsplash.com/600x600/?aquarium+filter',
+    image: 'https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=800&q=80',
     description: 'Filter internal untuk menjaga air aquarium tetap bersih dan sirkulasi stabil.',
   },
   {
@@ -168,7 +168,7 @@ export const products: Product[] = [
     name: 'Pakan Ikan Mas Hikari',
     category: 'Ikan',
     price: 45000,
-    image: 'https://source.unsplash.com/600x600/?fish+food',
+    image: 'https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=800&q=80',
     description: 'Pakan ikan mas berkualitas untuk warna cerah dan pertumbuhan sehat.',
   },
   {
@@ -176,7 +176,7 @@ export const products: Product[] = [
     name: 'Dekorasi Aquarium Batu',
     category: 'Ikan',
     price: 55000,
-    image: 'https://source.unsplash.com/600x600/?aquarium+decoration',
+    image: 'https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=800&q=80',
     description: 'Dekorasi batu aquarium untuk tampilan natural dan tempat eksplorasi ikan.',
   },
   {
@@ -184,7 +184,7 @@ export const products: Product[] = [
     name: 'Sangkar Burung Bambu',
     category: 'Burung',
     price: 175000,
-    image: 'https://source.unsplash.com/600x600/?bird+cage+bamboo',
+    image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&q=80',
     description: 'Sangkar burung bambu dengan desain klasik, ringan, dan nyaman untuk burung kecil.',
   },
   {
@@ -192,7 +192,7 @@ export const products: Product[] = [
     name: 'Pakan Burung Kenari',
     category: 'Burung',
     price: 35000,
-    image: 'https://source.unsplash.com/600x600/?bird+seeds',
+    image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&q=80',
     description: 'Campuran biji pilihan untuk mendukung stamina dan kicauan burung kenari.',
   },
   {
@@ -200,7 +200,7 @@ export const products: Product[] = [
     name: 'Mainan Gantung Burung',
     category: 'Burung',
     price: 45000,
-    image: 'https://source.unsplash.com/600x600/?bird+toy',
+    image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&q=80',
     description: 'Mainan gantung warna-warni untuk menjaga burung tetap aktif dan tidak mudah stres.',
   },
   {
@@ -208,7 +208,7 @@ export const products: Product[] = [
     name: 'Vitamin C Anjing',
     category: 'Obat',
     price: 95000,
-    image: 'https://source.unsplash.com/600x600/?dog+vitamin',
+    image: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     description: 'Suplemen vitamin C untuk membantu daya tahan tubuh anjing tetap prima.',
   },
   {
@@ -216,7 +216,7 @@ export const products: Product[] = [
     name: 'Obat Cacing Kucing',
     category: 'Obat',
     price: 55000,
-    image: 'https://source.unsplash.com/600x600/?cat+medicine',
+    image: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     description: 'Obat cacing kucing untuk perawatan kesehatan berkala sesuai anjuran pemakaian.',
   },
   {
@@ -224,7 +224,7 @@ export const products: Product[] = [
     name: 'Spot On Anti Kutu Kucing',
     category: 'Obat',
     price: 125000,
-    image: 'https://source.unsplash.com/600x600/?cat+flea+treatment',
+    image: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     description: 'Perawatan spot on untuk membantu melindungi kucing dari kutu dan parasit luar.',
     badge: 'Terlaris',
   },
@@ -233,7 +233,7 @@ export const products: Product[] = [
     name: 'Susu Bayi Kucing',
     category: 'Kucing',
     price: 75000,
-    image: 'https://source.unsplash.com/600x600/?kitten+milk',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Susu formula untuk bayi kucing sebagai dukungan nutrisi saat masa pertumbuhan awal.',
   },
   {
@@ -241,7 +241,7 @@ export const products: Product[] = [
     name: 'Bowl Makan Stainless Double',
     category: 'Aksesoris',
     price: 95000,
-    image: 'https://source.unsplash.com/600x600/?dog+bowl+stainless',
+    image: 'https://images.unsplash.com/photo-1601758124510-52d02ddb7cbd?w=800&q=80',
     description: 'Bowl makan stainless double yang higienis, stabil, dan mudah dibersihkan.',
   },
   {
@@ -249,7 +249,7 @@ export const products: Product[] = [
     name: 'Baju Anjing Hoodie S',
     category: 'Anjing',
     price: 145000,
-    image: 'https://source.unsplash.com/600x600/?dog+clothing',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Hoodie ukuran S untuk anjing kecil, nyaman dipakai dan tampil menggemaskan.',
   },
   {
@@ -257,7 +257,7 @@ export const products: Product[] = [
     name: 'Carrier Tas Kucing Oxford',
     category: 'Kucing',
     price: 285000,
-    image: 'https://source.unsplash.com/600x600/?cat+carrier+bag',
+    image: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80',
     description: 'Tas carrier bahan oxford untuk membawa kucing bepergian dengan aman dan nyaman.',
     badge: 'Promo',
   },
@@ -266,7 +266,7 @@ export const products: Product[] = [
     name: 'Scratch Post Kucing',
     category: 'Kucing',
     price: 215000,
-    image: 'https://source.unsplash.com/600x600/?cat+scratch+post',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Scratch post kokoh untuk menyalurkan kebiasaan menggaruk dan melindungi furnitur.',
   },
   {
@@ -274,7 +274,7 @@ export const products: Product[] = [
     name: 'Litter Box Tertutup',
     category: 'Kucing',
     price: 195000,
-    image: 'https://source.unsplash.com/600x600/?cat+litter+box',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Litter box tertutup untuk menjaga area rumah lebih rapi dan mengurangi bau.',
   },
   {
@@ -282,7 +282,7 @@ export const products: Product[] = [
     name: 'Pasir Kucing Wangi 10L',
     category: 'Kucing',
     price: 85000,
-    image: 'https://source.unsplash.com/600x600/?cat+litter+sand',
+    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80',
     description: 'Pasir kucing wangi 10L dengan daya serap baik dan mudah menggumpal.',
   },
   {
@@ -290,7 +290,7 @@ export const products: Product[] = [
     name: 'Topi Anjing Lucu',
     category: 'Anjing',
     price: 65000,
-    image: 'https://source.unsplash.com/600x600/?dog+hat+cute',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Topi lucu untuk anjing kecil, cocok untuk foto, event, atau hadiah.',
   },
   {
@@ -298,7 +298,7 @@ export const products: Product[] = [
     name: 'Snack Treat Anjing Jerky',
     category: 'Anjing',
     price: 55000,
-    image: 'https://source.unsplash.com/600x600/?dog+treats',
+    image: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80',
     description: 'Snack jerky untuk reward latihan atau camilan sehat di sela aktivitas.',
   },
 ]
@@ -320,6 +320,10 @@ export function formatRupiah(value: number) {
     currency: 'IDR',
     maximumFractionDigits: 0,
   }).format(value)
+}
+
+export function getProductById(id: string) {
+  return products.find((product) => product.id === id)
 }
 
 export function getProductsByCategory(category: string) {
